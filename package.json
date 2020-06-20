@@ -1,0 +1,25 @@
+{
+  "name": "inittest01",
+  "version": "1.0.0",
+  "description": "alooo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel1martinez2/pruebaConIniti.git"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "Daniel Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel1martinez2/pruebaConIniti/issues"
+  },
+  "homepage": "https://github.com/Daniel1martinez2/pruebaConIniti#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
